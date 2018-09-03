@@ -30,6 +30,8 @@
 
 #git push --tags
 
+#git push origin :1.00 (apaga no site)
+
 #->> branch
 
 #git checkout -b testing
