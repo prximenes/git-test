@@ -10,3 +10,4 @@
 #git diff ( --name-only)
 #git checkout 'arquivo'
 #git reset HEAD 'Readme.md'
+#git reset (--soft; --mixed; --hard)
