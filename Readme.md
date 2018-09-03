@@ -36,6 +36,8 @@
 
 #git rebase
 
+#git tag ( -a 1.0.0 -m "Readme finalizado")
+
 ----
 
 #git remote add origin https://github.com/prximenes/git-test.git
