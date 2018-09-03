@@ -22,6 +22,8 @@
 
 #git reset (--soft; --mixed; --hard)
 
+#git stash
+
 #->> branch
 
 #git checkout -b testing
