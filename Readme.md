@@ -22,6 +22,18 @@
 
 #git reset (--soft; --mixed; --hard)
 
+#->> branch
+
+#git checkout -b testing
+
+#git checkout 'branch que eu quero ir'
+
+#git branch ( -D testing)
+
+#git merge
+
+#git rebase
+
 ----
 
 #git remote add origin https://github.com/prximenes/git-test.git
