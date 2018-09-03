@@ -8,3 +8,4 @@
 #git shortlog (--sn)
 #git show 'hash'
 #git diff ( --name-only)
+#git checkout 'arquivo'
