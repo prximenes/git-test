@@ -9,3 +9,4 @@
 #git show 'hash'
 #git diff ( --name-only)
 #git checkout 'arquivo'
+#git reset HEAD 'Readme.md'
