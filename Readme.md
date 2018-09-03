@@ -22,7 +22,13 @@
 
 #git reset (--soft; --mixed; --hard)
 
+#git revert (reverte as mudancas mas mantem o commit "estragado")
+
 #git stash
+
+#git tag ( -a 1.0.0 -m "Readme finalizado")
+
+#git push --tags
 
 #->> branch
 
@@ -36,9 +42,6 @@
 
 #git rebase
 
-#git tag ( -a 1.0.0 -m "Readme finalizado")
-
-#git push --tags
 
 ----
 
