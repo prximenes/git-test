@@ -4,7 +4,7 @@
 
 #Git status
 
-#Git add
+#Git add 'arquivo'
 
 #Git commit -m "msg" (git commit -am "msg")
 
